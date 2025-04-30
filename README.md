@@ -1,14 +1,14 @@
 # AsmaCapstone
-Purpose/Problem Statement - What does your program do? What problem/need is it addressing?
+Purpose/Problem Statement - This program tracks RSVP responses for a fictional cat party. It helps manage guest names and their attendance status interactively.
 
-Target Audience - Who is this for? (ex: students, gamers, young adults, etc.)
+Target Audience - Beginner programmers, event planners, or cat-themed project fans.
 
-Solution + Limitations - How does your project solve the problem? Are there actions your program would do to solve the problem but doesn’t do?
+Solution + Limitations - The user can view, update, or add RSVPs using terminal input. Data isn’t saved between runs, and RSVP options are limited.
 
-Key Features / Key Components - List major parts of your program (what the user can do or see).
+Key Features / Key Components - Shows current guest list with RSVP status. Allows existing guests to check and update their RSVP. Lets new users add themselves with a valid RSVP. Input validation ensures only valid status entries are accepted.
 
-Technical Challenges + Future Plans - What was hard to figure out? What do you wish you could add if you had more time or more experience?
+Technical Challenges + Future Plans - Aligning names with RSVP statuses and validating input was tricky. Future ideas include file storage, using dictionaries, and more RSVP options.
 
-Project Timeline - Briefly explain how you broke this project up across days, weeks, or months.
+Project Timeline - Day 1: Wrote initial structure, guest list display, and basic RSVP logic. Day 2: Added functionality for updating RSVPs and adding new guests. Day 3: Cleaned up input validation and tested various edge cases.
 
-Tools and Resources Used - Include websites, docs, videos, AI, etc.
+Tools and Resources Used - Techsmart and Python. 
